@@ -6,7 +6,7 @@
 <hr>
 <div>
     <h2>С чего начать?</h2>
-    <h3>C низу можете найти ссылки на документации</h3>
+    <h3>Cнизу можете найти ссылки на документации</h3>
     <ul>
         <li><a href = "https://docs.python.org/3/" >Python 3</a>
             <ul>
@@ -173,6 +173,6 @@
         <li><a href = "https://paste.centos.org/">Fedora Pastebin</a></li>
         <li><a href = "https://t.me/SimplePasteBot">Hastebin Telegram Bot</a></li>
     </ul>
-    <h2>Предл</h2>
+    <h2>Предложения</h2>
     <p>Если у вас есть предложения и вопросы, обратитесь к <a href="https://t.me/illus11on">модератору</a>.</p>
 </div>
